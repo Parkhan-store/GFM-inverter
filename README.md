@@ -1,7 +1,5 @@
-# GFM-inverter
-Simulation study of a 20 kW grid-forming inverter control for smooth grid interconnection.
-
 # 20 kW Q-f Swing-Based Grid-Forming Inverter Control for Grid Interconnection
+Simulation study of a 20 kW grid-forming inverter control for smooth grid interconnection.
 
 ## Overview
 This project presents a simulation-based study of a 20 kW grid-forming inverter using Q-f swing-based control and P/Q reference scheduling for smooth grid interconnection.
